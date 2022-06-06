@@ -1,0 +1,10 @@
+$spacing: 1rem;
+
+.question {
+  margin-top: $spacing;
+
+  > div {
+    vertical-align: middle;
+    margin-right: $spacing;
+  }
+}
